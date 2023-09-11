@@ -1,3 +1,7 @@
+create schema estetica;
+
+use estetica;
+
 create table if not exists area (
 id_area int primary key auto_increment not null,
 nombre_area varchar (50) not null);
