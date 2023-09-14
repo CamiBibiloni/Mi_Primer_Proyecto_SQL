@@ -1,0 +1,8 @@
+id_empleado;id_turnos;id_puesto;nombre;apellido;telefono;email;fecha_contratacion
+41234567;1;BAR1;Gabriel;Rivarola;11234567;grivarola@estetica.com;2023-07-17
+41234568;1;COL1;Gonzalo;Ferrero;11234568;gferrero@estetica.com;2023-07-17
+41234569;1;LASH1;Camila;Bibiloni;11234569;cbibiloni@estetica.com;2023-07-17
+41234570;1;MAN1;Guadalupe;Chavez;11234570;gchavez@estetica.com;2023-07-17
+41234571;1;EST1;Agostina;Udria;11234571;audria@estetica.com;2023-07-17
+41234572;1;CEJ1;Ignacio;del Rio;11234572;idelrio@estetica.com;2023-07-17
+41234573;1;BAR2;Valentina;Zenere;11234573;vzenere@estetica.com;2023-07-17

@@ -1,0 +1,8 @@
+id_puesto;id_empleado;ubicacion_locales;puesto;descripcion_puesto
+BAR1;41234567;BELGRANO1;Barbero;Perfilar y cortar barba
+COL1;41234568;BELGRANO1;Colorista;Decoloracion y color de pelo
+LASH1;41234569;RAMOS1;Lashista;Colocacion de pestanias
+MAN1;41234570;PALERMO1;Manicura;Colocacion de unias
+EST1;41234571;LUZURIAGA1;Esteticista;Depilacion de cuerpo
+CEJ1;41234572;RAMOS1;Cejas;Perfilado de cejas
+BAR2;41234573;BELGRANO1;Barbero;Perfilar y cortar barba

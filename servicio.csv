@@ -1,0 +1,14 @@
+id_servicio;nombre;descripcion;precio
+1;Corte de Hombre;Barbero;2500
+2;Corte de Mujer;Barbero;3000
+3;Tintura;Colorista;10000
+4;Decoloracion;Colorista;20000
+5;Extensiones de pestanias;Lashista;5000
+6;Lifting de pestanias;Lashista;5000
+7;Laminado de cejas;Cejas;3000
+8;Depilacion de cejas;Cejas;2000
+9;Esculpidas en gel;Manicura;8000
+10;Esmaltado comun;Manicura;5500
+11;Esmaltado semi;Manicura;6000
+12;Depilacion cuerpo completo;Esteticista;45000
+13;Depilacion zona intima;Esteticista;15000
