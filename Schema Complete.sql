@@ -71,5 +71,3 @@ ALTER TABLE turnos
 	ADD FOREIGN KEY (id_cliente) references cliente (id_cliente);
 ALTER TABLE turnos
 	ADD FOREIGN KEY (id_servicio) references servicio (id_servicio);
-ALTER TABLE cliente
-	ADD FOREIGN KEY (id_turnos) references turnos (id_turnos);
