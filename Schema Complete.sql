@@ -60,8 +60,6 @@ primary key (id_cliente));
     
 -- Foreign Key
 ALTER TABLE puestos
-	ADD FOREIGN KEY (id_empleado) references empleados (id_empleado);
-ALTER TABLE puestos
 	ADD FOREIGN KEY (ubicacion_locales) references ubicacion_locales (id_ubicacion);
 ALTER TABLE empleados
 	ADD FOREIGN KEY (id_turnos) references turnos (id_turnos);
