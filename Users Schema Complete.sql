@@ -22,4 +22,4 @@ alter user 'UsuarioStg'@'localhost' identified by 'stg';
 -- Se crea la contraseña del usuario
 
 grant select, insert, update on estetica.* to 'UsuarioStg'@'localhost';
--- Se le asigna permisos al usuario de solo lectura a la bd Estetica.
+-- Se le asigna permisos al usuario de lectura, insert y update a la bd Estetica.
